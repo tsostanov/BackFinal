@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web-labochka4-back-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_labochka4_back_master_jar</output-path>
+    <root id="archive" name="web-labochka4-back-master.jar" />
+  </artifact>
+</component>
